@@ -1,0 +1,11 @@
+# VM0 Work Queue
+
+VM0 Work Queue is a SaaS workspace for vm0.
+
+Website: https://vm0workqueue.space/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: vm0
+Type: SaaS
+Default plan: team
+
+Public boundary: docs-only repository; no production source code or secrets.
